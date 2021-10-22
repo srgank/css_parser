@@ -10,7 +10,6 @@
 
 int main()
 {
-    
     string css =
         " h1{ "
         " color: white; "
