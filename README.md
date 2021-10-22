@@ -2,7 +2,9 @@
 
 // Example.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-#include "../../cparsecss.hpp"
+
+
+#include "cparsecss.hpp"
 #include <cstring>
 #include <iostream>
 
