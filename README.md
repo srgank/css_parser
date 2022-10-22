@@ -43,7 +43,7 @@ int main()
  b2  font-family     verdana  
  b2  font-size       20px    
  
- If you like to support  you cana make donation 
- https://paypal.me/srdzank64?country.x=AL&locale.x=en_US
+If you like to support my work.
+https://paypal.me/srdzank64?country.x=AL&locale.x=en_US
                                          
-https://paypal.me/srdzank64?country.x=AL&locale.x=en_US                                         
+                                    
